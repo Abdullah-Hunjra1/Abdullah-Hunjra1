@@ -9,32 +9,30 @@
 I'm a Full Stack Developer who enjoys building modern web applications with the MERN stack. I like turning ideas into clean, responsive, and reliable products that solve real-world problems.
 I believe good software should be simple to use, easy to maintain, and built with scalability in mind. Every project is an opportunity to learn something new and improve as a developer.
 
-- 💻 Building full-stack web applications with the MERN stack
-- 🚀 Turning ideas into production-ready software
-- 📚 Constantly improving through real-world projects
-- 🤝 Open to freelance work and collaborations
+- Building full-stack web applications with the MERN stack
+- Turning ideas into production-ready software
+- Constantly improving through real-world projects
+- Open to freelance work and collaborations
 
-
-
-## 🛠️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,git,github,vscode,postman,vercel" />
-</p>
+---
 
 ## 🌟 Featured Projects
 
-<a href="https://github.com/Abdullah-Hunjra1/Connectify">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullah-Hunjra1&repo=Connectify&theme=tokyonight" />
-</a>
+### 📹 **[Connectify](https://github.com/Abdullah-Hunjra1/Connectify)**
 
-<a href="https://github.com/Abdullah-Hunjra1/TaskForge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullah-Hunjra1&repo=TaskForge&theme=tokyonight" />
-</a>
+An all-in-one real-time video chat and social networking platform featuring secure authentication, instant messaging, video calls, social posts, notifications, and a modern user experience.
 
-<a href="https://github.com/Abdullah-Hunjra1/Connectify">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullah-Hunjra1&repo=Connectify&theme=tokyonight" />
-</a>
+---
+
+### 📋 **[TaskForge](https://github.com/Abdullah-Hunjra1/TaskForge)**
+
+A modern full-stack project management platform designed to help teams organize projects, manage tasks, track progress, and collaborate seamlessly through an intuitive dashboard.
+
+---
+
+### 🧠 **[NeuroDiary](https://github.com/Abdullah-Hunjra1/NeuroDiary)**
+
+An AI-powered digital diary that helps users journal their thoughts, track moods, analyze emotions, and gain meaningful insights to support mental well-being.
 
 ---
 
@@ -42,9 +40,20 @@ I believe good software should be simple to use, easy to maintain, and built wit
 ![](https://streak-stats.demolab.com/?user=Abdullah-Hunjra1&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abdullah-Hunjra1&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-# 🤝 Connect With Me
+---
 
-📧 Email: abdullahhunjra111@gmail.com
+
+## 📫 How to Reach Me
+
+📧 **Email:** [hafizabd804@gmail.com](mailto:hafizabd@gmail.com)
+
+
+
+## ✨ Fun Facts
+
+-  I enjoy building software that solves real business problems.
+-  I love transforming ideas into scalable web applications.
+-  Every new project is an opportunity to learn and improve.
 
 ---
 
