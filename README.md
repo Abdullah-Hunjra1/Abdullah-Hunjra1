@@ -22,13 +22,12 @@ I believe good software should be simple to use, easy to maintain, and built wit
 
 An all-in-one real-time video chat and social networking platform featuring secure authentication, instant messaging, video calls, social posts, notifications, and a modern user experience.
 
----
+
 
 ### 📋 **[TaskForge](https://github.com/Abdullah-Hunjra1/TaskForge)**
 
 A modern full-stack project management platform designed to help teams organize projects, manage tasks, track progress, and collaborate seamlessly through an intuitive dashboard.
 
----
 
 ### 🧠 **[NeuroDiary](https://github.com/Abdullah-Hunjra1/NeuroDiary)**
 
@@ -40,7 +39,7 @@ An AI-powered digital diary that helps users journal their thoughts, track moods
 
 ![](https://streak-stats.demolab.com/?user=Abdullah-Hunjra1&theme=midnight-purple&hide_border=true)
 
-<br/><br/>
+<br/>
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abdullah-Hunjra1&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
@@ -50,9 +49,7 @@ An AI-powered digital diary that helps users journal their thoughts, track moods
 ##  How to Reach Me
 
 📧 **Email:** [hafizabd804@gmail.com](mailto:hafizabd@gmail.com)
-
 <br/>
-
 
 ## ✨ Fun Facts
 
