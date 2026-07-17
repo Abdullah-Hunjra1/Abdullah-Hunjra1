@@ -16,7 +16,7 @@ I believe good software should be simple to use, easy to maintain, and built wit
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 ### 📹 **[Connectify](https://github.com/Abdullah-Hunjra1/Connectify)**
 
@@ -36,17 +36,22 @@ An AI-powered digital diary that helps users journal their thoughts, track moods
 
 ---
 
-# GitHub Stats:
-![](https://streak-stats.demolab.com/?user=Abdullah-Hunjra1&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abdullah-Hunjra1&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# GitHub Stats
+
+![](https://streak-stats.demolab.com/?user=Abdullah-Hunjra1&theme=midnight-purple&hide_border=true)
+
+<br/><br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abdullah-Hunjra1&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
 
-## 📫 How to Reach Me
+##  How to Reach Me
 
 📧 **Email:** [hafizabd804@gmail.com](mailto:hafizabd@gmail.com)
 
+<br/>
 
 
 ## ✨ Fun Facts
