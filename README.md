@@ -1,7 +1,9 @@
 # Hi there, I'm Abdullah 👋
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=6222CC&width=500&lines=Full+Stack+MERN+Developer" alt="Typing SVG" />
 
-<img width="4950" height="1238" alt="Purple and Black Modern Software Developer LinkedIn Banner" src="https://github.com/user-attachments/assets/19478854-5476-477e-8be4-5262638aa2de" />
+<img width="3762" height="941" alt="White and Black Modern Technology LinkedIn Background Photo" src="https://github.com/user-attachments/assets/e913ba5a-7047-4268-a415-cb528f3b286c" />
+
+
 
 
 ##  About Me
