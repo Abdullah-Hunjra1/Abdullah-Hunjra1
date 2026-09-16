@@ -21,7 +21,7 @@ I believe good software should be simple to use, easy to maintain, and built wit
 ##  Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,git,github,vscode,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode,postman,vercel" />
 </p>
 
 ---
