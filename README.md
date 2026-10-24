@@ -43,20 +43,21 @@ I'm also exploring AI-powered development and integrating AI features into real-
 
 ##  Featured Projects
 
-### 📹 **[Connectify](https://github.com/Abdullah-Hunjra1/Connectify)**
+###  [TestPilot](https://github.com/Abdullah-Hunjra1/testpilot)
 
-An all-in-one real-time video chat and social networking platform featuring secure authentication, instant messaging, video calls, social posts, notifications, and a modern user experience.
+An AI-powered software testing platform that connects GitHub repositories, generates relevant test cases, and automates browser testing using Playwright and Browserbase.
 
+###  [CodeCanvas](https://github.com/Abdullah-Hunjra1/CodeCanvas)
 
+An AI-powered React application builder that transforms natural language prompts into interactive projects, with an in-browser code editor and live preview powered by Google Gemini and Sandpack.
 
-### 📋 **[TaskForge](https://github.com/Abdullah-Hunjra1/TaskForge)**
+###  [Connectify](https://github.com/Abdullah-Hunjra1/Connectify)
 
-A modern full-stack project management platform designed to help teams organize projects, manage tasks, track progress, and collaborate seamlessly through an intuitive dashboard.
+A real-time social networking platform featuring secure authentication, instant messaging, video calls, social posts, notifications, and an interactive user experience.
 
+###  [TaskForge](https://github.com/Abdullah-Hunjra1/TaskForge)
 
-### 🧠 **[NeuroDiary](https://github.com/Abdullah-Hunjra1/NeuroDiary)**
-
-An AI-powered digital diary that helps users journal their thoughts, track moods, analyze emotions, and gain meaningful insights to support mental well-being.
+A full-stack project management platform that helps teams organize projects, manage tasks, track progress, and collaborate through an intuitive dashboard.
 
 ---
 
